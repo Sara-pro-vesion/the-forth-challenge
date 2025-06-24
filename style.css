@@ -1,0 +1,94 @@
+body{
+    background-color: hsl(30, 54%, 90%) ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5em;
+}
+.card {
+    background-color: white;
+    border-radius: 1em;
+    width: 40em;
+    height: auto;
+    padding: 20px;
+}
+img {
+    border-radius: 0.5em;
+    width: 35em;
+    height: auto;
+    margin: 1.5em;
+}
+.content {
+   padding-left: 2em;
+   padding-top: 0em;
+    padding-bottom: 1.5em;
+}
+h1 {
+    font-weight: 700;
+    color: hsl(24, 5%, 18%);
+    font-family: "Young Serif", serif;
+    font-style: normal;
+    margin-top: 0em;
+    font-size: 1.6em;
+}
+p {
+    font-size:14px;
+    color: hsl(30, 10%, 34%);
+     font-family: "Outfit", sans-serif;
+    font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h3 {
+    color: hsl(332, 51%, 32%);
+     font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  margin-left: 1em;
+  font-size: 18px
+}
+.time {
+    color:hsl(30, 10%, 34%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 1em;
+    font-size: 14px;
+}
+h2 {
+    color: hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+    font-style: normal;
+    font-weight: 700;
+    margin-left: 1em;
+    font-size: 2em;
+    margin-left: 0em;
+}
+.Ingredients{
+    margin-left: 0em;
+    color: hsl(30, 10%, 34%);
+ font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    margin-top: 0.5em;
+}
+ol{
+    color: hsl(30, 10%, 34%);
+    font-family: "Outfit", sans-serif;
+}
+.Nutrition {
+    font-family: "Outfit", sans-serif;
+}
+footer{
+color: rgb(34, 0, 255);
+    text-align: center;
+    margin-top: 2em;
+}
+
+
